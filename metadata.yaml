@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3594
     wikipedia: http://en.wikipedia.org/wiki/Robert_Kerr_%28writer%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13130#A-General-History-and-Collection-of-Voyages-and-Travels---Volume-10--13-Arranged-in-systemati_
 gutenberg_issued: '2004-08-07'
 gutenberg_type: Text
 identifiers:
